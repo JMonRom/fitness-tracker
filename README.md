@@ -12,11 +12,11 @@
 
   Here is a link to the deployed page: 
 
-  [Video of Employee Management](https://drive.google.com/file/d/19AUbrPq0JHlNQs5NiZNm3q-jxGqcPkMy/view?usp=sharing)
+  [Workout Tracker Link](https://fit-tracker-21.herokuapp.com/)
 
   Here is a link to the GitHub repo for the Workout Tracker:
 
-  [Workout Tracker](https://github.com/JMonRom/fitness-tracker)
+  [Workout Tracker GitHub](https://github.com/JMonRom/fitness-tracker)
 
   Here is a screenshot of the app running in command line:
 
